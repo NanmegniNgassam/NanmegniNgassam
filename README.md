@@ -12,16 +12,18 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-   <a href="https://gilles-ngassam.pisoftlite.com/"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
-   <a href="https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
-   <a href="https://www.behance.net/gillesnanmegn"><img alt="Behance-UX-Design" src="https://img.shields.io/badge/Design-Gilles.NGASSAM-blue?style=flat&logo=behance"></a>
+   <a href="https://gilles-ngassam.pisoftlite.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
+   <a href="https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
+   <a href="https://www.behance.net/gillesnanmegn" target="_blank"><img alt="Behance-UX-Design" src="https://img.shields.io/badge/Design-Gilles.NGASSAM-blue?style=flat&logo=behance"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJs" width="40" height="40"/> </a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> 
   <a href="https://sql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a> 
