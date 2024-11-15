@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gilles NGASSAM !</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=dAA520&center=true&multiline=true&width=435&lines=UX-Designer+%7C+Developer" alt="My attributions" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=dAA520&center=true&multiline=true&width=435&lines=UX-Designer+%7C+FullStack Developer" alt="My attributions" />
   </a>
 </h3>
 
 - 🔭 I’m currently pursuing an **Engineering Degree at UTBM**
-- 👨‍💻 Interests: UX-Design, Full-stack development, Iot and AI
-- 🔍 Looking for internship opportunities and for some atypical projects to collaborate on
+- 👨‍💻 Interests: UX-Design, Full-stack development (Mobile and Web), Iot and AI
+- 🔍 Looking for freelance opportunities and for some atypical projects to collaborate on
 - 📫 How to reach me  <a href="mailto:nanmegningassam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nanmegningassam@gmail.com-gold?style=flat&logo=gmail"></a>
 
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-   <a href="https://gilles.nanmegni.pisoftlite.com/"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
+   <a href="https://gilles-ngassam.pisoftlite.com/"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
    <a href="https://www.linkedin.com/in/gilles-pavel-nanmegni-ngassam-825997206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
    <a href="https://www.behance.net/gillesnanmegn"><img alt="Behance-UX-Design" src="https://img.shields.io/badge/Design-Gilles.NGASSAM-blue?style=flat&logo=behance"></a>
 </p>
@@ -30,10 +30,10 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Python" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 </p>
 
-- 🌱 I’m currently learning **API** and **FireBase**
+- 🌱 I’m currently learning **Cross Platforms Developement Tools (Ionic, Flutter, React Native ...)** and **Artificial Intelligence**.
 
 
 <h2 align="center">📈 Stats</p>
