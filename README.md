@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilles NGASSAM !</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=dAA520&center=true&multiline=true&width=435&lines=UX-Designer+%7C+FullStack Developer" alt="My attributions" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=dAA520&center=true&multiline=true&width=600&lines=FullStack Developer+%7C+UX Designer" alt="My attributions" />
   </a>
 </h3>
 
@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
    <a href="https://gilles-ngassam.pisoftlite.com/"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
-   <a href="https://www.linkedin.com/in/gilles-pavel-nanmegni-ngassam-825997206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
+   <a href="https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
    <a href="https://www.behance.net/gillesnanmegn"><img alt="Behance-UX-Design" src="https://img.shields.io/badge/Design-Gilles.NGASSAM-blue?style=flat&logo=behance"></a>
 </p>
 
