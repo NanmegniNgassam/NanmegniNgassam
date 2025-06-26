@@ -5,8 +5,8 @@
   </a>
 </h3>
 
-- 🔭 I’m currently pursuing an **Engineering Degree at UTBM**
-- 👨‍💻 Interests: UX-Design, Full-stack development (Mobile and Web), Iot and AI
+- 🔭 I’m currently looking for a permanent position as **Entry-level Engineer**
+- 👨‍💻 Interests: UX-Design, Full-stack development (Mobile and Web), AI and DevOps
 - 🔍 Looking for freelance opportunities and for some atypical projects to collaborate on
 - 📫 How to reach me  <a href="mailto:nanmegningassam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nanmegningassam@gmail.com-gold?style=flat&logo=gmail"></a>
 
