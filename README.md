@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilles NGASSAM !</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=24&pause=1000&color=dAA520&center=true&multiline=true&width=600&lines=FullStack Developer+%7C+UX Designer" alt="My attributions" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DAA520&center=true&multiline=true&width=600&lines=FullStack+Developer+%7C+UX+Designer" alt="Roles and attributions" />
   </a>
 </h3>
 
