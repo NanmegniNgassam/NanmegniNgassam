@@ -37,12 +37,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
-- 🌱 I’m currently learning **Cross Platforms Developement Tools (Ionic, Flutter, React Native ...)** and **Artificial Intelligence**.
 
-
-<h2 align="center">📈 Stats</p>
 <br>
 
-![Mes statistiques sur github](https://github-readme-stats.vercel.app/api?username=NanmegniNgassam&show_icons=true&hide=["prs","issues","contribs"])
+![Mes statistiques sur github](https://github-readme-stats.vercel.app/api?username=NanmegniNgassam&show_icons=true&hide=issues&theme=tokyonight)
 <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanmegniNgassam&langs_count=10&theme=tokyonight&layout=compact&hide=html">
 
