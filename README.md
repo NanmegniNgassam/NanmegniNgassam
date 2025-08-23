@@ -1,45 +1,61 @@
-<h1 align="center">Hi 👋, I'm Gilles NGASSAM !</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DAA520&center=true&multiline=true&width=600&lines=FullStack+Developer+%7C+UX+Designer" alt="Roles and attributions" />
-  </a>
-</h3>
+# 👨‍💻 Gilles Ngassam  
 
-- 🔭 I’m currently looking for a permanent position as **Entry-level Engineer**
-- 👨‍💻 Interests: UX-Design, Full-stack development (Mobile and Web), AI and DevOps
-- 🔍 Looking for freelance opportunities and for some atypical projects to collaborate on
-- 📫 How to reach me  <a href="mailto:nanmegningassam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nanmegningassam@gmail.com-gold?style=flat&logo=gmail"></a>
+**Ingénieur Développement Full Stack | Spécialiste CI/CD, UX et solutions scalables**  
+
+[Portfolio](https://gilles-ngassam.pisoftlite.com/) · [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/) · [GitHub](https://github.com/NanmegniNgassam)  
 
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-   <a href="https://gilles-ngassam.pisoftlite.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Gilles_(Website)-blue?style=flat"><a>
-   <a href="https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilles_NGASSAM-white?style=flat&logo=linkedin"></a>
-   <a href="https://www.behance.net/gillesnanmegn" target="_blank"><img alt="Behance-UX-Design" src="https://img.shields.io/badge/Design-Gilles.NGASSAM-blue?style=flat&logo=behance"></a>
-</p>
 
-<h3 align="center">Ma Stack de Dev</h3>
-<p align="center"> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJs" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> 
-  <a href="https://sql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="JavaScript" width="40" height="40"/></a> 
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-</p>
+## 🚀 À propos  
+
+Ingénieur full stack passionné par le **développement d’applications performantes, sécurisées et orientées utilisateurs**.  
+Expériences variées en front, back et DevOps, avec un accent fort sur **l’optimisation des pipelines CI/CD et l’amélioration des parcours utilisateurs**.  
 
 
-<br>
 
-![Mes statistiques sur github](https://github-readme-stats.vercel.app/api?username=NanmegniNgassam&show_icons=true&hide=issues&theme=tokyonight)
-<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanmegniNgassam&langs_count=10&theme=tokyonight&layout=compact&hide=html">
+## 💼 Expériences clés  
 
+- **Développeur Full Stack – Orange (2025)**  
+  🔹 Développement d’une extension GitLab adaptée aux besoins métiers  
+  🔹 Simplification CI/CD et automatisation des tests  
+  🔹 **+13 % d’efficacité** sur les mises en production, erreurs manuelles éliminées  
+
+- **Développeur Full Stack – VMC (2024)**  
+  🔹 Centralisation et automatisation des tests qualité sur lignes de production  
+  🔹 Développement UX + fonctionnalités temps réel  
+  🔹 **-33 % de charge de travail**, meilleure fiabilité des résultats  
+
+- **Développeur Full Stack – Ekilog (2023–2024)**  
+  🔹 Développement de composants SharePoint SPFx  
+  🔹 Automatisation des déploiements avec Azure DevOps  
+  🔹 **Top 1 des intégrations** SharePoint France  
+
+
+
+## 🛠️ Compétences  
+
+- **Front-end** : React, Angular, Vue, Tailwind, Material UI  
+- **Back-end** : Node.js, Nest.js, Next.js, Django, FastAPI  
+- **DevOps** : Git, Docker, Kubernetes, GitLab CI/CD, GitHub Actions  
+- **Bases de données** : PostgreSQL, MySQL, MongoDB, Redis  
+- **Tests & Qualité** : Jest, Mocha, Cypress, Playwright, Sonar  
+
+
+
+## 🎓 Formation & Certifications  
+
+🎓 Diplôme d’ingénieur (UTBM) – Développement avancé & Méthodes de déploiement logiciel  
+📜 Google Cloud Engineer Learning Path (2024)  
+📜 Google UX Design Professional Certificate (2024)  
+
+
+
+## 📫 Contact  
+
+✉️ nanmegningassam@gmail.com  
+🌍 [Portfolio](https://gilles-ngassam.pisoftlite.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/)  
+
+
+
+✨ Disponible immédiatement pour de nouvelles opportunités en **développement full stack & DevOps**.
