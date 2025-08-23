@@ -2,7 +2,7 @@
 
 **Ingénieur Développement Full Stack | Spécialiste CI/CD, UX et solutions scalables**  
 
-[Portfolio](https://gilles-ngassam.pisoftlite.com/) · [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/) · [GitHub](https://github.com/NanmegniNgassam)  
+[Portfolio](https://gilles-ngassam.pisoftlite.com/) · [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/)
 
 
 
