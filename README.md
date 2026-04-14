@@ -1,4 +1,4 @@
-# Gilles Pavel Ngassam
+# Gilles NGASSAM
 
 Ingénieur full stack, spécialisé Angular et Spring Boot.
 Je construis des interfaces réactives et des APIs solides, avec une attention particulière aux tests et à l'éco-conception.
@@ -28,4 +28,4 @@ Je construis des interfaces réactives et des APIs solides, avec une attention p
 Open aux contributions, aux retours sur du code, et aux projets open source qui valent la peine d'exister.
 Si tu travailles sur quelque chose d'intéressant, je suis prenable.
 
-[Portfolio](https://gilles-ngassam.pisoftlite.com/) · [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/)
+[Portfolio](https://gillesngassam.com/) · [LinkedIn](https://www.linkedin.com/in/nanmegni-ngassam-gilles-pavel-825997206/)
